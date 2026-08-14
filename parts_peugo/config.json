@@ -249,5 +249,6 @@
   130,
   0
  ],
- "arm_key_mirrored": true
+ "arm_key_mirrored": true,
+ "typing_arm": false
 }
