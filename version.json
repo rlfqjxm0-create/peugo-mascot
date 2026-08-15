@@ -1,5 +1,5 @@
 {
- "version": 1786826951,
+ "version": 1786827257,
  "files": {
   "mascot.py": "b5921d786a3f482de26df4bbc979f0a0b14a8c6f7dbcd370e67ac5363553818b",
   "parts_peugo/arm_key.png": "2ccd1b9c918fac64d1354aa58bccf69e68cded25a07a180e303e394089739d00",
@@ -7,7 +7,7 @@
   "parts_peugo/arm_right.png": "2ccd1b9c918fac64d1354aa58bccf69e68cded25a07a180e303e394089739d00",
   "parts_peugo/arm_right_typing.png": "057b5ece87984a6f5f208fa3bba562e962a2763f326ee0bc1143c30cf712f067",
   "parts_peugo/body_open.png": "a1f7f6b682902a708074e960713ff4d69080056c5efd8b0b911277c53fd92130",
-  "parts_peugo/config.json": "eb274a83b77cbc690653aaa78dae54b5f98d9501a20b21bb0906197184848f91",
+  "parts_peugo/config.json": "e97076c356c2e57c4f521b91f6b308408047271f0d2cd49b256bc3a6a9fa75ed",
   "parts_peugo/desk.png": "ed61b0dad602a7849eb73039f7665de3c14ee01464507e3c427e442e1c2dd159",
   "parts_peugo/eyes_closed.png": "e98a4734a87d7c398a880a395bb922dca4f5304531c49da7f6a67ec2dd8e5317",
   "parts_peugo/hair.png": "dc4bf65cd6569dee9640d1a0681ebe3e4b03d534ead42c47b872d2bd2503b736",
