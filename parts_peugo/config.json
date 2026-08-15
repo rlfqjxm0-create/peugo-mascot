@@ -245,10 +245,5 @@
  ],
  "level": true,
  "update_dot": true,
- "arm_key_offset": [
-  130,
-  0
- ],
- "arm_key_mirrored": true,
  "typing_arm": false
 }
