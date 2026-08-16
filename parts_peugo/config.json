@@ -99,7 +99,15 @@
  "stickers": true,
  "youtube": true,
  "card": {
-  "fill": "#1562f0"
+  "fill": "#5da33e",
+  "border": "#a9d18f",
+  "track": "#d9e8f8",
+  "text": "#2f4858",
+  "sub": "#7d93a8",
+  "deco": "frog",
+  "panel": "#f7fbf4",
+  "soft": "#eaf3fb",
+  "line": "#dcead8"
  },
  "titles": [
   [
@@ -285,5 +293,6 @@
     "vol": 1.0
    }
   }
- }
+ },
+ "card_top": 26
 }
