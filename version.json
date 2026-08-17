@@ -1,7 +1,7 @@
 {
- "version": 1786949650,
+ "version": 1786956807,
  "files": {
-  "mascot.py": "f0ecba155a6c65e36db34372a7db09426517c249264dd0815005a9114e83caa7",
+  "mascot.py": "febf3f5ac9388ec86d10a949cb2e9b51fabd862c7b6a79d9089cacfaa3613f6e",
   "parts_peugo/arm_key.png": "057b5ece87984a6f5f208fa3bba562e962a2763f326ee0bc1143c30cf712f067",
   "parts_peugo/arm_pen.png": "a2abe2f608d400e9daa8d31eeec5424e4bbc680dbf11e97646b025fd338d4ea6",
   "parts_peugo/arm_right.png": "2ccd1b9c918fac64d1354aa58bccf69e68cded25a07a180e303e394089739d00",
@@ -341,11 +341,8 @@
   "stickers/sticker_icon.ico": "e1ced0f5c5cd1b963ebfad7d839b5b1d78959ac0fc37bba5859a40c0afda4221",
   "stickers/textmaker.py": "f75a9e4e9cac8ac120ee2ac3bec6546572e1cb908f3bd6ca6605913b6f18f471",
   "stickers/__init__.py": "d77e3dc92cb353dced8d192c140643c6458bc3901facdf2e0a0d0830fa4244b7",
-  "youtube_player.py": "33dd7fc8cf781b8b8a37c1a60a54b7506ebce5b44399d28fc0841d143d19e70c"
+  "youtube_player.py": "b24fce8125c2234285ae5f8dfbb612eb879c8897476d7fbfcc04856057e42e76"
  },
- "notes": [
-  "새 주민 '레냥'(귤 고양이)이 이사 왔어요 — 홈에서 만나요",
-  "모두의 플레이리스트에서 일부 노래가 재생되지 않던 문제를 고쳤어요 (주소에 개인 재생목록이 붙어 있던 곡)",
-  "노래에 좋아요를 누르면 하트가 내 화면에 바로 보여요"
- ]
+ "notes": [],
+ "silent": true
 }
