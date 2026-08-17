@@ -1,7 +1,7 @@
 {
- "version": 1786960721,
+ "version": 1786961714,
  "files": {
-  "mascot.py": "347ee98b47114e50791765d6a585d1248761d4c12713c6b1c20c63669d183fe4",
+  "mascot.py": "64339ffcf8075294eac342881e58a631fa61f2b53a6f66427c59ae4e5c0f3aea",
   "parts_peugo/arm_key.png": "057b5ece87984a6f5f208fa3bba562e962a2763f326ee0bc1143c30cf712f067",
   "parts_peugo/arm_pen.png": "a2abe2f608d400e9daa8d31eeec5424e4bbc680dbf11e97646b025fd338d4ea6",
   "parts_peugo/arm_right.png": "2ccd1b9c918fac64d1354aa58bccf69e68cded25a07a180e303e394089739d00",
@@ -39,6 +39,11 @@
   "parts_peugo/seat_pen.png": "7169a73b8cb901737bd1b43b067d852a26d50f27e9997b156f76013c1d9239c1",
   "parts_peugo/seat_pen2.png": "1b2dfe1908738f5fcffeb8d14882f0df53e6bafb2c0f8d0ff9c13dca5e74cc57",
   "parts_peugo/seat_type.png": "64426c5b371ee48c9f2400b3c005ebb27a1b469198a138bc84e1a313d4430b29",
+  "parts_peugo/sky_dawn.png": "588c23959f0f6af3c8a5f75fb7eb14ed64d4e8ed567b04bddcf9c2592726c2c1",
+  "parts_peugo/sky_day.png": "8c836f9d19bfde652386227be759bd3cea9ead31c54f35c46eb639a74502445e",
+  "parts_peugo/sky_dusk.png": "357d5a58d58536cd07f06f291be1ea7be6866846a7b83c985a0bcd9af833f321",
+  "parts_peugo/sky_morning.png": "08a2cacc410e1cabe61815bc6601ec4a56265ca792b6f37d247ef597ef89099b",
+  "parts_peugo/sky_night.png": "f762dc17a481c603d8bc1d76f594ace20551e2aab850bfda9cd631f57731ad84",
   "parts_peugo/smile.png": "3a35061986ef9769db8fcad378dbc11cd79eaa9c39c58bb08f66c21e906382ab",
   "parts_peugo/fonts/Pretendard-Bold.otf": "2e91915fab54df71cc9598ebf608b2bdb54c6fe3c066ac61dff0bc44fca71cc7",
   "parts_peugo/fonts/Pretendard-Regular.otf": "3ffbacde6ab8411f1d2db54bb9b1f0b3ee2a738932033722cf0388c06aed1c93",
