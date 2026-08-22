@@ -1,7 +1,7 @@
 {
- "version": 1787415135,
+ "version": 1787417782,
  "files": {
-  "mascot.py": "f6ef858b674dad52833ced139f9665748dd30aa791782c36bbb6231eac46cceb",
+  "mascot.py": "7fc409208ea29603f8d04e5c70887e9da6fd94daa7652da0468997ea87524cc5",
   "parts_peugo/arm_key.png": "057b5ece87984a6f5f208fa3bba562e962a2763f326ee0bc1143c30cf712f067",
   "parts_peugo/arm_pen.png": "a2abe2f608d400e9daa8d31eeec5424e4bbc680dbf11e97646b025fd338d4ea6",
   "parts_peugo/arm_right.png": "2ccd1b9c918fac64d1354aa58bccf69e68cded25a07a180e303e394089739d00",
@@ -479,9 +479,6 @@
   "stickers/__init__.py": "d77e3dc92cb353dced8d192c140643c6458bc3901facdf2e0a0d0830fa4244b7",
   "youtube_player.py": "8fd216056f4f61075a8646a791389b05ad0082c40864d84b16773c2302c74f2d"
  },
- "notes": [
-  "머리 위로 솟는 소품(리본·뿔 같은 것)이 타이머 카드 뒤로 숨던 것을 고쳤어요",
-  "말풍선 글자가 양옆으로 삐져나가던 것을 고쳤어요. 긴 말은 줄을 나눠 말풍선이 아래로 자랍니다",
-  "친구가 놓고 간 간식이 타이머 카드 뒤로 숨던 것도 고쳤어요"
- ]
+ "notes": [],
+ "silent": true
 }
