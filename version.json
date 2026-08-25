@@ -1,7 +1,7 @@
 {
- "version": 1787691770,
+ "version": 1787692723,
  "files": {
-  "mascot.py": "fbbd51154d02b797fd8c4927f73b974fc08c82657ef60526e60ec725b2f1ec99",
+  "mascot.py": "1ce37ec906567ae0321bdd1b51a9f301e71ebc98c2781078f185015fb326c31a",
   "parts_peugo/arm_key.png": "057b5ece87984a6f5f208fa3bba562e962a2763f326ee0bc1143c30cf712f067",
   "parts_peugo/arm_pen.png": "a2abe2f608d400e9daa8d31eeec5424e4bbc680dbf11e97646b025fd338d4ea6",
   "parts_peugo/arm_right.png": "2ccd1b9c918fac64d1354aa58bccf69e68cded25a07a180e303e394089739d00",
@@ -21,8 +21,8 @@
   "parts_peugo/hand.png": "14fcba700a6266576b2d5a5e8d6aa308f53ff0d00008e93ee51526d08eec067f",
   "parts_peugo/hat.png": "4bd1da80b760cff3694c7b21350e8dce6a177026846dcd737d796ad7560f277f",
   "parts_peugo/head.png": "4ac4ccbcfa9134bd00d89a64de840c28b35580e40cd35f2b4cea58006521442d",
-  "parts_peugo/layout.json": "ddcf685d32e2cfe7c4ed679fb31f3e838f2ea3b7bdc07662a6dd4569f53b2ff8",
-  "parts_peugo/prop1.png": "e0375ff77f22aa362dd6f74aa5f2c1ea34c3e1c04770c3a085c204cc86261940",
+  "parts_peugo/layout.json": "f0d5c9be646a7a57d710df8e79bcf138429de80686f60e4409997025112b37cc",
+  "parts_peugo/prop1.png": "c6c932bcbd39f1a7052d9741c8b040135ff46af612bd21a17e9ce29e798c88db",
   "parts_peugo/prop10_back.png": "9c151b667a305e0b40917014640ebb0b599d65f77fbb44f467f973eb245a4198",
   "parts_peugo/prop11.png": "5018d089066acf04ff2118046d99d1112eacb9819345988f562674b49035022f",
   "parts_peugo/prop12.png": "b9302cdb7e185ff289fbd0f99b2dcbdd42ecf2accecb1a05ad1c0b1fc3f5dffc",
@@ -45,14 +45,17 @@
   "parts_peugo/prop21.png": "beb385b6e7f5ee674647a6233d43477b79ecb5fa2e38b867e307204bf43bdefc",
   "parts_peugo/prop21_bit2.png": "de8c1da2f597646b94574fd580048c4e45475e1ab1f9f6370e90d1c87366260a",
   "parts_peugo/prop21_bit3.png": "2703eb396ea6f8a7ea6adf149aa6c61774f710b549549fc90c8117c26c42e4c9",
-  "parts_peugo/prop22.png": "593227953b26c9ce41627c228f5e8cb053ff825e66f2819b862b5224f272b497",
-  "parts_peugo/prop23.png": "07b2118ef0f629b49eade9373744552efa0897d97753de56c44852aff9383c0a",
+  "parts_peugo/prop22.png": "0d4f762127a5f7f098af3582802e82b2f695e571f2f77b7b7f47805782f5590f",
+  "parts_peugo/prop23.png": "2d0e5ec3c6eba692b0012e021bed50292d5381ef5a800e319791b902af0cf812",
   "parts_peugo/prop24.png": "7c6f6f1167a6269472767792f2836bf000ba53a0ca357d2274157124432c6516",
   "parts_peugo/prop24_bit2.png": "540eb6da42103448419bc79f6aff24fc9c9447ad9c33e0a6eb7eb7dedba0ef8c",
   "parts_peugo/prop25.png": "9ad3522e6d0bbdb1c57e9c059e6baf4674983d7b81b0dc3042d37aa497832b37",
   "parts_peugo/prop25_bit2.png": "06498229d5933bee7dc6d21cfaef4b004c72ba6483de72615e6eccf202ea7faa",
   "parts_peugo/prop25_bit3.png": "fba1a1d7d410c461a8430238cbd701a0896a2c2d5528b9bb243828672b6ac0d2",
   "parts_peugo/prop25_bit4.png": "9226d712957ae3ee8669437a74a0b7eb1d8ac3c8e06ef665e9840796cc3b1327",
+  "parts_peugo/prop26.png": "45be8d74b44de4efe25c7626999f3f3c4ac0fd5c991439aaa4d9105b586bcdb5",
+  "parts_peugo/prop27.png": "b2a700f0f2ee25aed5e19a30ece4b7b916e3643c6ab03c58e3186abe70cb1402",
+  "parts_peugo/prop28.png": "f504d56e9dcc7f34c5f891e7562f118e8da189bf287ffd70a43398b65975d678",
   "parts_peugo/prop3.png": "3e6039e49468fc76b3f3ce170c2e5a79386ec1fe8e0338132dc84b694c0d5f7e",
   "parts_peugo/prop4.png": "fd2c2776649970473bf66b63f6156bf5500ef825552c17824d42aace62c338c1",
   "parts_peugo/prop5.png": "987a597782583a16fd7d9a9cb3023b2e9f6cbef1e0f0935ea7890dcd8bd72821",
@@ -491,7 +494,6 @@
   "stickers/__init__.py": "d77e3dc92cb353dced8d192c140643c6458bc3901facdf2e0a0d0830fa4244b7",
   "youtube_player.py": "958da4bd526d867ec8250db02da4729ceb168664c04419091fe6ebf040122f80"
  },
- "notes": [
-  "새 소품 4종이 왔어요 — 잠자는 고양이(가끔 눈을 뜨고 빤히 봐요), 김이 폴폴 나는 왕만두, 아기 쪽쪽이, 토끼 머리띠. '소품 새로고침'을 누르다 보면 만날 수 있어요."
- ]
+ "notes": [],
+ "silent": true
 }
