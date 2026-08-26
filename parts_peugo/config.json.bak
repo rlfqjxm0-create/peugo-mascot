@@ -575,61 +575,6 @@
       ],
       "label": "덤보",
       "pname": "눈깜빡"
-    },
-    "propx2": {
-      "pos": [
-        611,
-        -495
-      ],
-      "size": [
-        91,
-        169
-      ],
-      "label": "덤보",
-      "pname": "꼬리",
-      "gname": "덤보",
-      "over": 1,
-      "bits": [
-        "propx2_bit2",
-        "propx2_bit3",
-        "propx2_bit4"
-      ]
-    },
-    "propx2_bit2": {
-      "pos": [
-        415,
-        -386
-      ],
-      "size": [
-        472,
-        484
-      ],
-      "label": "덤보",
-      "pname": "몸통"
-    },
-    "propx2_bit3": {
-      "pos": [
-        395,
-        -389
-      ],
-      "size": [
-        495,
-        314
-      ],
-      "label": "덤보",
-      "pname": "머리"
-    },
-    "propx2_bit4": {
-      "pos": [
-        524,
-        -248
-      ],
-      "size": [
-        255,
-        105
-      ],
-      "label": "덤보",
-      "pname": "눈깜빡"
     }
   },
   "prop_tune": {
