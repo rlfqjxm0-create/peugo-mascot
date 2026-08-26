@@ -1,7 +1,7 @@
 {
- "version": 1787709851,
+ "version": 1787716082,
  "files": {
-  "mascot.py": "018be95a9e3a5d7bb3d8bd20d600d438dc46a9ad7d7710fb8a518fa457c6946c",
+  "mascot.py": "5efb6f5198fe437b2ecbe25ecc283968d6357e03c0184e4e2d104530b016cd86",
   "parts_peugo/arm_key.png": "057b5ece87984a6f5f208fa3bba562e962a2763f326ee0bc1143c30cf712f067",
   "parts_peugo/arm_pen.png": "a2abe2f608d400e9daa8d31eeec5424e4bbc680dbf11e97646b025fd338d4ea6",
   "parts_peugo/arm_right.png": "2ccd1b9c918fac64d1354aa58bccf69e68cded25a07a180e303e394089739d00",
@@ -21,7 +21,7 @@
   "parts_peugo/hand.png": "14fcba700a6266576b2d5a5e8d6aa308f53ff0d00008e93ee51526d08eec067f",
   "parts_peugo/hat.png": "4bd1da80b760cff3694c7b21350e8dce6a177026846dcd737d796ad7560f277f",
   "parts_peugo/head.png": "4ac4ccbcfa9134bd00d89a64de840c28b35580e40cd35f2b4cea58006521442d",
-  "parts_peugo/layout.json": "f0d5c9be646a7a57d710df8e79bcf138429de80686f60e4409997025112b37cc",
+  "parts_peugo/layout.json": "c1ce0223fc76eab78ae6e0ff93892f2478d2b6b0fb81c40717cf868e692e2f80",
   "parts_peugo/prop1.png": "c6c932bcbd39f1a7052d9741c8b040135ff46af612bd21a17e9ce29e798c88db",
   "parts_peugo/prop10_back.png": "9c151b667a305e0b40917014640ebb0b599d65f77fbb44f467f973eb245a4198",
   "parts_peugo/prop11.png": "5018d089066acf04ff2118046d99d1112eacb9819345988f562674b49035022f",
@@ -56,6 +56,11 @@
   "parts_peugo/prop26.png": "45be8d74b44de4efe25c7626999f3f3c4ac0fd5c991439aaa4d9105b586bcdb5",
   "parts_peugo/prop27.png": "b2a700f0f2ee25aed5e19a30ece4b7b916e3643c6ab03c58e3186abe70cb1402",
   "parts_peugo/prop28.png": "f504d56e9dcc7f34c5f891e7562f118e8da189bf287ffd70a43398b65975d678",
+  "parts_peugo/prop29.png": "f7c8f3a8cc669b11c795ac698549720dd8340e9c40c1808f973bda0027f2a08c",
+  "parts_peugo/prop29_bit2.png": "a7202163174327e0b6dcfc07675fcde15ef91161319bf6e9945acb7cdb5c1d63",
+  "parts_peugo/prop29_bit3.png": "e63df768003a4e1303cb8ca68ef4680d702c84aa86a81a0a12d3dda13ce3aa8c",
+  "parts_peugo/prop29_bit4.png": "e84531480e807d3affce5aa3470457ce536d70fa00c08ddf715c2640132f667c",
+  "parts_peugo/prop29_bit5.png": "369614ceda529a4e4aac09afa8fee2a8dfbe7e5a2433d86b4f9624bed32832b0",
   "parts_peugo/prop3.png": "3e6039e49468fc76b3f3ce170c2e5a79386ec1fe8e0338132dc84b694c0d5f7e",
   "parts_peugo/prop4.png": "fd2c2776649970473bf66b63f6156bf5500ef825552c17824d42aace62c338c1",
   "parts_peugo/prop5.png": "987a597782583a16fd7d9a9cb3023b2e9f6cbef1e0f0935ea7890dcd8bd72821",
@@ -503,6 +508,10 @@
   "stickers/__init__.py": "d77e3dc92cb353dced8d192c140643c6458bc3901facdf2e0a0d0830fa4244b7",
   "youtube_player.py": "0b2e0560b1bf72e55b8ab8623e3083a401842cdafe905a5a0186012617aee9bb"
  },
- "notes": [],
- "silent": true
+ "notes": [
+  "새 소품 4종이 왔어요 — 잠자는 고양이, 김이 폴폴 나는 왕만두, 아기 쪽쪽이, 토끼 머리띠. '소품 새로고침'을 누르다 보면 만날 수 있어요.",
+  "고양이를 클릭하면 야옹 하고 울어요. 고양이 머리를 살살 쓰다듬으면(드래그) 고롱고롱 소리를 내요.",
+  "모두의 플레이리스트에서 퍼오기가 막혀 건너뛰던 곡도 이제 재생돼요. 유튜브 프리미엄을 쓰신다면 음악 메뉴에서 한 번 로그인해 두면 광고 없이 나와요.",
+  "하독의 반려동물 고양이 비비도 있어요! 발과 꼬리를 살랑이는 비비를 클릭하거나 몸을 쓰다듬어 보세요."
+ ]
 }
